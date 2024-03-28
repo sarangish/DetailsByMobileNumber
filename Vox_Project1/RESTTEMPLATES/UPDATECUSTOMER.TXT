@@ -1,0 +1,12 @@
+﻿{
+    "jsonrpc": "2.0",
+    "params": {
+ 
+        "full_name": "[@NAME@]",
+        "dob": "[@DOB@]",
+        "phone": "[@PHONE@]",
+        "gender": "[@GENDER@]",
+        "email": "[@EMAIL@]"
+}
+ 
+}
